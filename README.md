@@ -38,8 +38,8 @@ I thrive in fast-paced environments and possess an exceptional drive for excelle
       <br><strong>Tailwind</strong>
     </td>
     <td align="center" height="121" width="121">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667" width="48" height="48" alt="Sass" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
-      <br><strong>Sass</strong>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="MaterialUI" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="max-width: 100%;"></a>
+      <br><strong>MaterialUI</strong>
     </td>
   </tr>
   <tr>
