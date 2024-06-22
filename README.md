@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&size=26&duration=2000&color=007acc&pause=200&multiline=true&width=500&height=80&lines=Dragan+Aleksic;Frontend+developer)](https://git.io/typing-svg)
 
+<a href="https://draganaleksic.com">
+    <img src="https://img.shields.io/badge/Website-draganaleksic.com-red?style=flat-square">
+</a>  
+<a href="https://draganaleksic.com/resume.pdf">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/dragan-aleksi%C4%87/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:aleksicdragan574@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
 ### Hi there 👋
 
 <p align="justify" dir="auto">
