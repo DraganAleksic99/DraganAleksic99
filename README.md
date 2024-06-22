@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&size=26&duration=2000&color=007acc&pause=200&multiline=true&width=500&height=80&lines=Dragan+Aleksic;Frontend+developer)](https://git.io/typing-svg)
+
 ### Hi there 👋
 
 <p align="justify" dir="auto">
