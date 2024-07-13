@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&size=26&duration=2000&color=007acc&pause=200&multiline=true&width=500&height=80&lines=Dragan+Aleksic;Frontend+developer)](https://git.io/typing-svg)
 
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
 <p align="justify" dir="auto">
   I'm a frontend developer with three years of experience. I love building UIs and possess an exceptional drive for excellence.
