@@ -24,7 +24,7 @@
 </a>
 
 <h2 dir="auto">
-    Technologies
+    Languages and Tools
 </h2>
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind)]()
