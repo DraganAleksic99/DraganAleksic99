@@ -16,6 +16,9 @@
 <a href="https://draganaleksic.com/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
+<a href="https://x.com/DraganAleksic99">
+    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+</a>  
 <a href="https://www.linkedin.com/in/dragan-aleksi%C4%87/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
