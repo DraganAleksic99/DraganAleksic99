@@ -30,7 +30,7 @@
     Languages and Tools
 </h2>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind)]()
+[![SkillIcons](https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,materialui,expressjs,nodejs)]()
 
 <h2>Stats</h2>
 
