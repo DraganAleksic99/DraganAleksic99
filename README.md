@@ -1,23 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&size=26&duration=2000&color=007acc&pause=200&multiline=true&width=500&height=80&lines=Dragan+Aleksic;Frontend+developer)](https://git.io/typing-svg)
 
-<h2>Hi there 👋</h2>
-
-<p align="justify" dir="auto">
-  I'm a frontend developer with three years of experience. I love building UIs and possess an exceptional drive for excellence.
-
-  My strong sense of discipline and diligence allows me to deliver high-quality work consistently. I am constantly open to feedback and collaboration, valuing the growth and success of the team    as a whole.
-</p>
-
-<br>
-
 <a href="https://draganaleksic.com">
     <img src="https://img.shields.io/badge/Website-draganaleksic.com-red?style=flat-square">
 </a>  
 <a href="https://draganaleksic.com/resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://x.com/DraganAleksic99">
-    <img src="https://img.shields.io/badge/-X-black?style=flat-square&logo=x">
+    <img src="https://img.shields.io/badge/-X / Twitter-black?style=flat-square&logo=x">
 </a>  
 <a href="https://www.linkedin.com/in/dragan-aleksi%C4%87/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
