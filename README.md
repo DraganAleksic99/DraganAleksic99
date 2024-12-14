@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&size=26&duration=2000&color=007acc&pause=200&multiline=true&width=500&height=80&lines=Dragan+Aleksic;Frontend+developer)](https://git.io/typing-svg)
 
-<a href="https://draganaleksic.com">
+<a href="https://dub.sh/dev-portfolio">
     <img src="https://img.shields.io/badge/Website-draganaleksic.com-red?style=flat-square">
 </a>  
 <a href="https://draganaleksic.com/resume.pdf">
